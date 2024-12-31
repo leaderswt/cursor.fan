@@ -1,0 +1,55 @@
+
+### 韩语版本 (navigation.md)
+````markdown
+# Cursor 문서 탐색
+
+## 시작하기
+- [VS Code에서 마이그레이션](https://www.cursor.fan/ko/get-started/migrate-from-vscode)
+- [기본 사용법](https://www.cursor.fan/ko/get-started/usage)
+
+## 탭 기능
+- [개요](https://www.cursor.fan/ko/tab/overview)
+- [GitHub Copilot에서 마이그레이션](https://www.cursor.fan/ko/tab/from-gh-copilot)
+- [고급 기능](https://www.cursor.fan/ko/tab/advanced-features)
+
+## 채팅 기능
+- [개요](https://www.cursor.fan/ko/chat/overview)
+- [사용자 설정](https://www.cursor.fan/ko/chat/customize)
+- [코드베이스 통합](https://www.cursor.fan/ko/chat/codebase)
+- [응용 프로그램 기능](https://www.cursor.fan/ko/chat/apply)
+
+## Cmd K 기능
+- [개요](https://www.cursor.fan/ko/cmdk/overview)
+- [터미널 명령](https://www.cursor.fan/ko/cmdk/terminal-cmdk)
+
+## 컨텍스트 기능
+- [코드베이스 인덱싱](https://www.cursor.fan/ko/context/codebase-indexing)
+- [AI 규칙](https://www.cursor.fan/ko/context/rules-for-ai)
+- [무시된 파일](https://www.cursor.fan/ko/context/ignore-files)
+
+### @ 기호 기능
+- [기본 사용법](https://www.cursor.fan/ko/context/@-symbols/basic)
+- [@Files 파일 작업](https://www.cursor.fan/ko/context/@-symbols/@-files)
+- [@Folders 폴더 작업](https://www.cursor.fan/ko/context/@-symbols/@-folders)
+- [@Code 코드 작업](https://www.cursor.fan/ko/context/@-symbols/@-code)
+- [@Docs 문서 작업](https://www.cursor.fan/ko/context/@-symbols/@-docs)
+- [@Git 버전 관리](https://www.cursor.fan/ko/context/@-symbols/@-git)
+- [@Codebase 코드베이스 작업](https://www.cursor.fan/ko/context/@-symbols/@-codebase)
+- [@Web 웹 리소스](https://www.cursor.fan/ko/context/@-symbols/@-web)
+- [@Chat 채팅 기능](https://www.cursor.fan/ko/context/@-symbols/@-chat)
+- [@Definitions 정의 검색](https://www.cursor.fan/ko/context/@-symbols/@-definitions)
+- [@Link 링크 관리](https://www.cursor.fan/ko/context/@-symbols/@-link)
+
+## 고급 기능
+- [모델 구성](https://www.cursor.fan/ko/advanced/models)
+- [API 키 관리](https://www.cursor.fan/ko/advanced/api-keys)
+- [AI 코드 리뷰](https://www.cursor.fan/ko/advanced/ai-review)
+- [섀도우 작업 공간](https://www.cursor.fan/ko/advanced/shadow-workspace)
+
+## 개인 정보
+- [개인 정보 보호 정책](https://www.cursor.fan/ko/privacy/privacy)
+
+## 문제 해결
+- [일반적인 문제](https://www.cursor.fan/ko/troubleshooting/common-issues)
+- [문제 해결 가이드](https://www.cursor.fan/ko/troubleshooting/troubleshooting-guide)
+````
