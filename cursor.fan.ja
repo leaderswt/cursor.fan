@@ -1,0 +1,55 @@
+
+### 日语版本 (navigation.md)
+````markdown
+# Cursor ドキュメントナビゲーション
+
+## はじめに
+- [VS Code からの移行](https://www.cursor.fan/ja/get-started/migrate-from-vscode)
+- [基本的な使い方](https://www.cursor.fan/ja/get-started/usage)
+
+## タブ機能
+- [概要](https://www.cursor.fan/ja/tab/overview)
+- [GitHub Copilot からの移行](https://www.cursor.fan/ja/tab/from-gh-copilot)
+- [高度な機能](https://www.cursor.fan/ja/tab/advanced-features)
+
+## チャット機能
+- [概要](https://www.cursor.fan/ja/chat/overview)
+- [カスタマイズ設定](https://www.cursor.fan/ja/chat/customize)
+- [コードベースの統合](https://www.cursor.fan/ja/chat/codebase)
+- [アプリケーション機能](https://www.cursor.fan/ja/chat/apply)
+
+## Cmd K 機能
+- [概要](https://www.cursor.fan/ja/cmdk/overview)
+- [ターミナルコマンド](https://www.cursor.fan/ja/cmdk/terminal-cmdk)
+
+## コンテキスト機能
+- [コードベースのインデックス作成](https://www.cursor.fan/ja/context/codebase-indexing)
+- [AI ルール](https://www.cursor.fan/ja/context/rules-for-ai)
+- [無視されたファイル](https://www.cursor.fan/ja/context/ignore-files)
+
+### @ シンボル機能
+- [基本的な使い方](https://www.cursor.fan/ja/context/@-symbols/basic)
+- [@Files ファイル操作](https://www.cursor.fan/ja/context/@-symbols/@-files)
+- [@Folders フォルダー操作](https://www.cursor.fan/ja/context/@-symbols/@-folders)
+- [@Code コード操作](https://www.cursor.fan/ja/context/@-symbols/@-code)
+- [@Docs ドキュメント操作](https://www.cursor.fan/ja/context/@-symbols/@-docs)
+- [@Git バージョン管理](https://www.cursor.fan/ja/context/@-symbols/@-git)
+- [@Codebase コードベース操作](https://www.cursor.fan/ja/context/@-symbols/@-codebase)
+- [@Web ウェブリソース](https://www.cursor.fan/ja/context/@-symbols/@-web)
+- [@Chat チャット機能](https://www.cursor.fan/ja/context/@-symbols/@-chat)
+- [@Definitions 定義検索](https://www.cursor.fan/ja/context/@-symbols/@-definitions)
+- [@Link リンク管理](https://www.cursor.fan/ja/context/@-symbols/@-link)
+
+## 高度な機能
+- [モデル設定](https://www.cursor.fan/ja/advanced/models)
+- [API キー管理](https://www.cursor.fan/ja/advanced/api-keys)
+- [AI コードレビュー](https://www.cursor.fan/ja/advanced/ai-review)
+- [シャドウワークスペース](https://www.cursor.fan/ja/advanced/shadow-workspace)
+
+## プライバシー
+- [プライバシーポリシー](https://www.cursor.fan/ja/privacy/privacy)
+
+## トラブルシューティング
+- [一般的な問題](https://www.cursor.fan/ja/troubleshooting/common-issues)
+- [トラブルシューティングガイド](https://www.cursor.fan/ja/troubleshooting/troubleshooting-guide)
+````
