@@ -1,0 +1,55 @@
+
+### 阿拉伯语版本 (navigation.md)
+````markdown
+# تنقل وثائق Cursor
+
+## البدء
+- [الانتقال من VS Code](https://www.cursor.fan/ar/get-started/migrate-from-vscode)
+- [الاستخدام الأساسي](https://www.cursor.fan/ar/get-started/usage)
+
+## ميزات التبويب
+- [نظرة عامة](https://www.cursor.fan/ar/tab/overview)
+- [الانتقال من GitHub Copilot](https://www.cursor.fan/ar/tab/from-gh-copilot)
+- [ميزات متقدمة](https://www.cursor.fan/ar/tab/advanced-features)
+
+## ميزات الدردشة
+- [نظرة عامة](https://www.cursor.fan/ar/chat/overview)
+- [إعدادات التخصيص](https://www.cursor.fan/ar/chat/customize)
+- [تكامل قاعدة الشيفرة](https://www.cursor.fan/ar/chat/codebase)
+- [ميزات التطبيق](https://www.cursor.fan/ar/chat/apply)
+
+## ميزات Cmd K
+- [نظرة عامة](https://www.cursor.fan/ar/cmdk/overview)
+- [أوامر الطرفية](https://www.cursor.fan/ar/cmdk/terminal-cmdk)
+
+## ميزات السياق
+- [فهرسة قاعدة الشيفرة](https://www.cursor.fan/ar/context/codebase-indexing)
+- [قواعد الذكاء الاصطناعي](https://www.cursor.fan/ar/context/rules-for-ai)
+- [الملفات المهملة](https://www.cursor.fan/ar/context/ignore-files)
+
+### ميزات رمز @
+- [الاستخدام الأساسي](https://www.cursor.fan/ar/context/@-symbols/basic)
+- [@Files عمليات الملفات](https://www.cursor.fan/ar/context/@-symbols/@-files)
+- [@Folders عمليات المجلدات](https://www.cursor.fan/ar/context/@-symbols/@-folders)
+- [@Code عمليات الشيفرة](https://www.cursor.fan/ar/context/@-symbols/@-code)
+- [@Docs عمليات الوثائق](https://www.cursor.fan/ar/context/@-symbols/@-docs)
+- [@Git التحكم في الإصدارات](https://www.cursor.fan/ar/context/@-symbols/@-git)
+- [@Codebase عمليات قاعدة الشيفرة](https://www.cursor.fan/ar/context/@-symbols/@-codebase)
+- [@Web الموارد على الويب](https://www.cursor.fan/ar/context/@-symbols/@-web)
+- [@Chat ميزات الدردشة](https://www.cursor.fan/ar/context/@-symbols/@-chat)
+- [@Definitions بحث عن التعريفات](https://www.cursor.fan/ar/context/@-symbols/@-definitions)
+- [@Link إدارة الروابط](https://www.cursor.fan/ar/context/@-symbols/@-link)
+
+## ميزات متقدمة
+- [تكوين النموذج](https://www.cursor.fan/ar/advanced/models)
+- [إدارة مفاتيح API](https://www.cursor.fan/ar/advanced/api-keys)
+- [مراجعة الشيفرة بواسطة الذكاء الاصطناعي](https://www.cursor.fan/ar/advanced/ai-review)
+- [مساحة العمل الظلية](https://www.cursor.fan/ar/advanced/shadow-workspace)
+
+## الخصوصية
+- [سياسة الخصوصية](https://www.cursor.fan/ar/privacy/privacy)
+
+## استكشاف الأخطاء وإصلاحها
+- [المشكلات الشائعة](https://www.cursor.fan/ar/troubleshooting/common-issues)
+- [دليل استكشاف الأخطاء وإصلاحها](https://www.cursor.fan/ar/troubleshooting/troubleshooting-guide)
+````
