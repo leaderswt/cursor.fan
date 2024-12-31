@@ -1,0 +1,55 @@
+
+### 法语版本 (navigation.md)
+````markdown
+# Navigation de la Documentation Cursor
+
+## Introduction
+- [Migration depuis VS Code](https://www.cursor.fan/fr/get-started/migrate-from-vscode)
+- [Utilisation de base](https://www.cursor.fan/fr/get-started/usage)
+
+## Fonctionnalités des Onglets
+- [Aperçu](https://www.cursor.fan/fr/tab/overview)
+- [Migration depuis GitHub Copilot](https://www.cursor.fan/fr/tab/from-gh-copilot)
+- [Fonctionnalités Avancées](https://www.cursor.fan/fr/tab/advanced-features)
+
+## Fonctionnalités de Chat
+- [Aperçu](https://www.cursor.fan/fr/chat/overview)
+- [Paramètres de Personnalisation](https://www.cursor.fan/fr/chat/customize)
+- [Intégration de la Base de Code](https://www.cursor.fan/fr/chat/codebase)
+- [Fonctionnalités de l'Application](https://www.cursor.fan/fr/chat/apply)
+
+## Fonctionnalités Cmd K
+- [Aperçu](https://www.cursor.fan/fr/cmdk/overview)
+- [Commandes du Terminal](https://www.cursor.fan/fr/cmdk/terminal-cmdk)
+
+## Fonctionnalités de Contexte
+- [Indexation de la Base de Code](https://www.cursor.fan/fr/context/codebase-indexing)
+- [Règles de l'IA](https://www.cursor.fan/fr/context/rules-for-ai)
+- [Fichiers Ignorés](https://www.cursor.fan/fr/context/ignore-files)
+
+### Fonctionnalités du Symbole @
+- [Utilisation de Base](https://www.cursor.fan/fr/context/@-symbols/basic)
+- [@Files Opérations de Fichiers](https://www.cursor.fan/fr/context/@-symbols/@-files)
+- [@Folders Opérations de Dossiers](https://www.cursor.fan/fr/context/@-symbols/@-folders)
+- [@Code Opérations de Code](https://www.cursor.fan/fr/context/@-symbols/@-code)
+- [@Docs Opérations de Documents](https://www.cursor.fan/fr/context/@-symbols/@-docs)
+- [@Git Contrôle de Version](https://www.cursor.fan/fr/context/@-symbols/@-git)
+- [@Codebase Opérations de la Base de Code](https://www.cursor.fan/fr/context/@-symbols/@-codebase)
+- [@Web Ressources Web](https://www.cursor.fan/fr/context/@-symbols/@-web)
+- [@Chat Fonctionnalités de Chat](https://www.cursor.fan/fr/context/@-symbols/@-chat)
+- [@Definitions Recherche de Définitions](https://www.cursor.fan/fr/context/@-symbols/@-definitions)
+- [@Link Gestion des Liens](https://www.cursor.fan/fr/context/@-symbols/@-link)
+
+## Fonctionnalités Avancées
+- [Configuration des Modèles](https://www.cursor.fan/fr/advanced/models)
+- [Gestion des Clés API](https://www.cursor.fan/fr/advanced/api-keys)
+- [Revue de Code par l'IA](https://www.cursor.fan/fr/advanced/ai-review)
+- [Espace de Travail Fantôme](https://www.cursor.fan/fr/advanced/shadow-workspace)
+
+## Confidentialité
+- [Politique de Confidentialité](https://www.cursor.fan/fr/privacy/privacy)
+
+## Dépannage
+- [Problèmes Courants](https://www.cursor.fan/fr/troubleshooting/common-issues)
+- [Guide de Dépannage](https://www.cursor.fan/fr/troubleshooting/troubleshooting-guide)
+````
