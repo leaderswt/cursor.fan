@@ -1,0 +1,51 @@
+# Cursor Documentation Navigation
+
+## Getting Started
+- [Migrating from VS Code](https://www.cursor.fan/en/get-started/migrate-from-vscode)
+- [Basic Usage](https://www.cursor.fan/en/get-started/usage)
+
+## Tab Features
+- [Overview](https://www.cursor.fan/en/tab/overview)
+- [Migrating from GitHub Copilot](https://www.cursor.fan/en/tab/from-gh-copilot)
+- [Advanced Features](https://www.cursor.fan/en/tab/advanced-features)
+
+## Chat Features
+- [Overview](https://www.cursor.fan/en/chat/overview)
+- [Customization Settings](https://www.cursor.fan/en/chat/customize)
+- [Codebase Integration](https://www.cursor.fan/en/chat/codebase)
+- [Application Features](https://www.cursor.fan/en/chat/apply)
+
+## Cmd K Features
+- [Overview](https://www.cursor.fan/en/cmdk/overview)
+- [Terminal Commands](https://www.cursor.fan/en/cmdk/terminal-cmdk)
+
+## Context Features
+- [Codebase Indexing](https://www.cursor.fan/en/context/codebase-indexing)
+- [AI Rules](https://www.cursor.fan/en/context/rules-for-ai)
+- [Ignored Files](https://www.cursor.fan/en/context/ignore-files)
+
+### @ Symbol Features
+- [Basic Usage](https://www.cursor.fan/en/context/@-symbols/basic)
+- [@Files File Operations](https://www.cursor.fan/en/context/@-symbols/@-files)
+- [@Folders Folder Operations](https://www.cursor.fan/en/context/@-symbols/@-folders)
+- [@Code Code Operations](https://www.cursor.fan/en/context/@-symbols/@-code)
+- [@Docs Document Operations](https://www.cursor.fan/en/context/@-symbols/@-docs)
+- [@Git Version Control](https://www.cursor.fan/en/context/@-symbols/@-git)
+- [@Codebase Codebase Operations](https://www.cursor.fan/en/context/@-symbols/@-codebase)
+- [@Web Web Resources](https://www.cursor.fan/en/context/@-symbols/@-web)
+- [@Chat Chat Features](https://www.cursor.fan/en/context/@-symbols/@-chat)
+- [@Definitions Definition Lookup](https://www.cursor.fan/en/context/@-symbols/@-definitions)
+- [@Link Link Management](https://www.cursor.fan/en/context/@-symbols/@-link)
+
+## Advanced Features
+- [Model Configuration](https://www.cursor.fan/en/advanced/models)
+- [API Key Management](https://www.cursor.fan/en/advanced/api-keys)
+- [AI Code Review](https://www.cursor.fan/en/advanced/ai-review)
+- [Shadow Workspace](https://www.cursor.fan/en/advanced/shadow-workspace)
+
+## Privacy
+- [Privacy Policy](https://www.cursor.fan/en/privacy/privacy)
+
+## Troubleshooting
+- [Common Issues](https://www.cursor.fan/en/troubleshooting/common-issues)
+- [Troubleshooting Guide](https://www.cursor.fan/en/troubleshooting/troubleshooting-guide)
