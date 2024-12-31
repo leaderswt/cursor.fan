@@ -1,0 +1,55 @@
+
+### 德语版本 (navigation.md)
+````markdown
+# Cursor Dokumentationsnavigation
+
+## Erste Schritte
+- [Von VS Code migrieren](https://www.cursor.fan/de/get-started/migrate-from-vscode)
+- [Grundlegende Nutzung](https://www.cursor.fan/de/get-started/usage)
+
+## Tab-Funktionen
+- [Übersicht](https://www.cursor.fan/de/tab/overview)
+- [Von GitHub Copilot migrieren](https://www.cursor.fan/de/tab/from-gh-copilot)
+- [Erweiterte Funktionen](https://www.cursor.fan/de/tab/advanced-features)
+
+## Chat-Funktionen
+- [Übersicht](https://www.cursor.fan/de/chat/overview)
+- [Anpassungseinstellungen](https://www.cursor.fan/de/chat/customize)
+- [Codebase-Integration](https://www.cursor.fan/de/chat/codebase)
+- [Anwendungsfunktionen](https://www.cursor.fan/de/chat/apply)
+
+## Cmd K Funktionen
+- [Übersicht](https://www.cursor.fan/de/cmdk/overview)
+- [Terminalbefehle](https://www.cursor.fan/de/cmdk/terminal-cmdk)
+
+## Kontextfunktionen
+- [Codebase-Indexierung](https://www.cursor.fan/de/context/codebase-indexing)
+- [KI-Regeln](https://www.cursor.fan/de/context/rules-for-ai)
+- [Ignorierte Dateien](https://www.cursor.fan/de/context/ignore-files)
+
+### @ Symbol Funktionen
+- [Grundlegende Nutzung](https://www.cursor.fan/de/context/@-symbols/basic)
+- [@Files Dateioperationen](https://www.cursor.fan/de/context/@-symbols/@-files)
+- [@Folders Ordneroperationen](https://www.cursor.fan/de/context/@-symbols/@-folders)
+- [@Code Codeoperationen](https://www.cursor.fan/de/context/@-symbols/@-code)
+- [@Docs Dokumentoperationen](https://www.cursor.fan/de/context/@-symbols/@-docs)
+- [@Git Versionskontrolle](https://www.cursor.fan/de/context/@-symbols/@-git)
+- [@Codebase Codebase-Operationen](https://www.cursor.fan/de/context/@-symbols/@-codebase)
+- [@Web Webressourcen](https://www.cursor.fan/de/context/@-symbols/@-web)
+- [@Chat Chat-Funktionen](https://www.cursor.fan/de/context/@-symbols/@-chat)
+- [@Definitions Definitionen suchen](https://www.cursor.fan/de/context/@-symbols/@-definitions)
+- [@Link Linkverwaltung](https://www.cursor.fan/de/context/@-symbols/@-link)
+
+## Erweiterte Funktionen
+- [Modellkonfiguration](https://www.cursor.fan/de/advanced/models)
+- [API-Schlüsselverwaltung](https://www.cursor.fan/de/advanced/api-keys)
+- [KI-Codeüberprüfung](https://www.cursor.fan/de/advanced/ai-review)
+- [Schattenarbeitsbereich](https://www.cursor.fan/de/advanced/shadow-workspace)
+
+## Datenschutz
+- [Datenschutzrichtlinie](https://www.cursor.fan/de/privacy/privacy)
+
+## Fehlersuche
+- [Häufige Probleme](https://www.cursor.fan/de/troubleshooting/common-issues)
+- [Fehlersuche-Leitfaden](https://www.cursor.fan/de/troubleshooting/troubleshooting-guide)
+````
